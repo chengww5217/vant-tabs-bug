@@ -1,0 +1,4 @@
+<view class="tab-common-wrapper">
+    <view>I am the tab common</view>
+    <view class="strong">Without the text fixed</view>
+</view>

@@ -1,0 +1,4 @@
+<view class="tab-fixed-wrapper">
+    <view>I am the text fixed in the bottom</view>
+    <view class="strong">I am only in the tab-fixed, not the tab-common</view>
+</view>

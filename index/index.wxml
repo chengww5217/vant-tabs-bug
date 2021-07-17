@@ -1,0 +1,8 @@
+<van-tabs animated>
+    <van-tab title="tab-fixed">
+        <tab-fixed />
+    </van-tab>
+    <van-tab title="tab-common">
+        <tab-common />
+    </van-tab>
+</van-tabs>

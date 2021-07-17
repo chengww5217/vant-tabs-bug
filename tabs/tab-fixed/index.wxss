@@ -1,0 +1,12 @@
+.tab-fixed-wrapper {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  margin-bottom: env(safe-area-inset-bottom);
+}
+
+.strong {
+  font-weight: bold;
+}
